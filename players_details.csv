@@ -1,0 +1,217 @@
+,Name,DOB,Age,Batting_Style,Role
+0,Michael van Lingen,"October 24, 1997",25y 151d,Left hand Bat,Left arm Medium
+1,Divan la Cock,"February 23, 2003",20y 29d,Right hand Bat,Legbreak
+2,Stephan Julian Baard,"April 29, 1992, Namibia",30y 329d,Right hand Bat,Right arm Medium fast
+3,Merwe Gerhard Erasmus,"April 11, 1995, Windhoek, Namibia",27y 347d,Right hand Bat,Right arm Offbreak
+4,Johannes Jonathan Smit,"November 10, 1995, keetmanshoop",27y 134d,Right hand Bat,Left arm Medium fast
+5,Ben Shikongo,"May 08, 2000",22y 320d,Right hand Bat,Right arm Medium fast
+6,Pathum Nissanka Silva,"May 18, 1998, Galle",24y 310d,Right hand Bat,Top order Batter
+7,Chirag Suri,"February 18, 1995, New Delhi, India",28y 34d,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+8,Muhammad Waseem,"February 12, 1994",29y 40d,Right hand Bat,Right arm Medium
+9,Kashif Daud,"February 10, 1986, Sialkot, Punjab",37y 42d,Right hand Bat,Right arm Medium fast
+10,Zawar Farid,"July 25, 1992, Sahiwal",30y 242d,Right hand Bat,Right arm Medium
+11,Basil Hameed,"April 15, 1992, Panniyankara, Kozhikode, Kerala",30y 343d,Right hand Bat,Right arm Offbreak
+12,Chundangapoyil Puthiyapurayil Rizwan,"April 19, 1988, Tellicherry, Kerala",34y 339d,Right hand Bat,Legbreak Googly
+13,Aayan Afzal Khan,"November 15, 2005",17y 129d,Right hand Bat,Slow Left arm Orthodox
+14,Karthik Palaniapan Meiyappan,"October 08, 2000, Chennai, India",22y 167d,Right hand Bat,Legbreak
+15,Muhammad Junaid Siddique,"December 06, 1992, Multan, Pakistan",30y 108d,Right hand Bat,Right arm Medium fast
+16,Zahoor Khan,"May 25, 1989, Faisalabad, Punjab",33y 303d,Right hand Bat,Right arm Medium fast
+17,Vikramjit Singh,"January 09, 2003, Cheema Khurd, Punjab",20y 74d,Left hand Bat,Right arm Medium fast
+18,Scott Andrew Edwards,"August 23, 1996, Tonga",26y 213d,Right hand Bat,Wicketkeeper
+19,Frederick Jack Klaassen,"November 13, 1992, Haywards Heath, Sussex",30y 131d,Right hand Bat,Left arm Fast medium
+20,Paul Adriaan van Meekeren,"January 15, 1993, Amsterdam, Netherlands",30y 68d,Right hand Bat,Right arm Fast medium
+21,Henry George Munsey,"February 21, 1993, Oxford",30y 31d,Left hand Bat,Right arm Medium fast
+22,Michael Alexander Jones,"January 05, 1998, Ormskirk, Lancashire",25y 78d,Right hand Bat,Right arm Offbreak
+23,Matthew Henry Cross,"October 15, 1992, Aberdeen",30y 160d,Right hand Bat,Wicketkeeper
+24,Richard Douglas Berrington,"April 03, 1987, Pretoria, South Africa",35y 355d,Right hand Bat,Right arm Medium fast
+25,Michael Alexander Leask,"October 29, 1990, Aberdeen",32y 146d,Right hand Bat,Right arm Offbreak
+26,Christopher Nicholas Greaves,"October 12, 1990",32y 163d,Right hand Bat,Legbreak
+27,Mark Robert James Watt,"July 29, 1996, Eastern General Hospital, Edinburgh",26y 238d,Left hand Bat,Slow Left arm Orthodox
+28,Safyaan Mohammed Sharif,"May 24, 1991, Huddersfield, Yorkshire",31y 304d,Right hand Bat,Right arm Medium fast
+29,Bradley Thomas James Wheal,"August 28, 1996, Durban, KwaZulu-Natal",26y 208d,Right hand Bat,Right arm Fast medium
+30,Kyle Rico Mayers,"September 08, 1992, Barbados",30y 197d,Left hand Bat,Right arm Medium
+31,Shamarh Shaqad Joshua Brooks,"October 01, 1988, St. Michael, Barbados",34y 174d,Right hand Bat,Legbreak
+32,Rovman Powell,"July 23, 1993, Jamaica",29y 244d,Right hand Bat,Right arm Medium fast
+33,Jason Omar Holder,"November 05, 1991, Barbados",31y 139d,Right hand Bat,Right arm Medium fast
+34,Alzarri Shaheim Joseph,"November 20, 1996, Antigua",26y 124d,Right hand Bat,Right arm Fast
+35,Odean Fabian Smith,"November 01, 1996, St. Elizabeth, Jamaica",26y 143d,Right hand Bat,Right arm Fast medium
+36,Obed  Christopher McCoy,"January 04, 1997",26y 79d,Left hand Bat,Left arm Fast medium
+37,Wessly Nyasha Madhevere,"September 04, 2000, Harare",22y 201d,Right hand Bat,Right arm Offbreak
+38,Jan Nicol Loftie-Eaton,"March 15, 2001",22y 9d,Left hand Bat,"Right arm Medium, Legbreak"
+39,Jan Nicolaas Frylinck,"April 06, 1994, Bellville, Western Cape",28y 352d,Left hand Bat,Left arm Fast medium
+40,David Wiese,"May 18, 1985, Roodepoort",37y 310d,Right hand Bat,Right arm Medium fast
+41,Zane Edward Green,"October 11, 1996, Namibia",26y 164d,Left hand Bat,Wicketkeeper
+42,Bernard Martinus Scholtz,"October 03, 1990, Keetmanshoop, Namibia",32y 172d,Right hand Bat,Slow Left arm Orthodox
+43,Balapuwaduge Kusal Gimhan Mendis,"February 02, 1995, Moratuwa",28y 50d,Right hand Bat,Legbreak
+44,Dhananjaya Maduranga de Silva,"September 06, 1991, Colombo",31y 199d,Right hand Bat,Right arm Offbreak
+45,Mashtayage Danushka Gunathilaka,"March 17, 1991, Panadura",32y 7d,Dana,Left hand Bat
+46,Pramod Bhanuka Bandara Rajapaksa,"October 24, 1991, Colombo",31y 151d,Left hand Bat,Right arm Medium
+47,Madagamagamage Dasun Shanaka,"September 09, 1991, Negombo",31y 196d,Right hand Bat,Right arm Medium
+48,Pinnaduwage Wanindu Hasaranga de Silva,"July 29, 1997, Galle",25y 238d,Right hand Bat,Legbreak
+49,Chamika Karunaratne,"May 29, 1996, Colombo",26y 299d,Right hand Bat,Right arm Medium fast
+50,Pramod Madushan Liyanagamage,"December 14, 1993, Hambantota",29y 100d,Right hand Bat,Right arm Medium fast
+51,Pathira Vasan Dushmantha Chameera,"January 11, 1992, Ragama",31y 72d,Right hand Bat,Right arm Fast
+52,Morawakage Maheesh Theekshana,"August 01, 2000, Colombo",22y 235d,Right hand Bat,Right arm Offbreak
+53,Vriitya Aravind,"June 11, 2002, Chennai, India",20y 286d,Right hand Bat,Wicketkeeper
+54,Maxwell Patrick O'Dowd,"March 04, 1994, Auckland",29y 20d,Right hand Bat,Right arm Offbreak
+55,Bas de Leede,"November 15, 1999",23y 129d,Right hand Bat,Right arm Fast medium
+56,Colin Niel Ackermann,"April 04, 1991, George, South Africa",31y 354d,Ackers,Right hand Bat
+57,Tom Lexley William Cooper,"November 26, 1986, Wollongong, New South Wales",36y 118d,Coops,Right hand Bat
+58,Roelof Erasmus van der Merwe,"December 31, 1984, Johannesburg, Transvaal",38y 83d,"Roela, Bulldog",Right hand Bat
+59,Timothy James Gerard Pringle,"August 29, 2002, The Hague",20y 207d,Right hand Bat,Slow Left arm Orthodox
+60,Logan Verjus van Beek,"September 07, 1990, Christchurch, Canterbury",32y 198d,Right hand Bat,Right arm Medium fast
+61,Calum Scott MacLeod,"November 15, 1988, Glasgow, Lanarkshire",34y 129d,"Cloudy, Highlander, Scot",Right hand Bat
+62,Joshua Henry Davey,"August 03, 1990, Aberdeen",32y 233d,Wavey,Right hand Bat
+63,Evin Lewis,"December 27, 1991, Port of Spain, Trinidad",31y 87d,Left hand Bat,Opening Batter
+64,Brandon Alexander King,"December 16, 1994, Kingston, Jamaica",28y 98d,Right hand Bat,Top order Batter
+65,Nicholas Pooran,"October 02, 1995, Trinidad",27y 173d,Left hand Bat,Right arm Offbreak
+66,Akeal Jerome Hosein,"April 25, 1993, Port-of-Spain",29y 333d,Left hand Bat,Slow Left arm Orthodox
+67,Regis Wiriranai Chakabva,"September 20, 1987, Harare",35y 185d,Right hand Bat,Right arm Offbreak
+68,Craig Richard Ervine,"August 19, 1985, Harare",37y 217d,Left hand Bat,Right arm Offbreak
+69,Sean Colin Williams,"September 26, 1986, Bulawayo",36y 179d,Left hand Bat,Slow Left arm Orthodox
+70,Sikandar Raza Butt,"April 24, 1986, Sialkot, Punjab, Pakistan",36y 334d,Right hand Bat,Right arm Offbreak
+71,Milton Shumba,"October 19, 2000, Chitungwiza",22y 156d,Left hand Bat,Slow Left arm Orthodox
+72,Ryan Ponsonby Burl,"April 15, 1994, Marondera",28y 343d,Left hand Bat,Legbreak
+73,Luke Mafuwa Jongwe,"February 06, 1995, Harare",28y 46d,Right hand Bat,Right arm Fast medium
+74,Tendai Larry Chatara,"February 28, 1991, Chimanimani",32y 24d,Right hand Bat,Right arm Fast medium
+75,Richard Ngarava,"December 28, 1997, Harare",25y 86d,Left hand Bat,Left arm Fast medium
+76,Blessing Muzarabani,"October 02, 1996, Harare",26y 173d,Right hand Bat,Right arm Fast medium
+77,Paul Robert Stirling,"September 03, 1990, Belfast",32y 202d,Right hand Bat,Right arm Offbreak
+78,Andrew Balbirnie,"December 28, 1990, Dublin, Ireland",32y 86d,Right hand Bat,Right arm Offbreak
+79,Lorcan John Tucker,"September 10, 1996, Dublin",26y 195d,Right hand Bat,Wicketkeeper
+80,Harry Tom Tector,"December 06, 1999, Dublin",23y 108d,Right hand Bat,Right arm Offbreak
+81,Curtis Campher,"April 20, 1999, Johannesburg",23y 338d,Right hand Bat,Right arm Medium fast
+82,George Henry Dockrell,"July 22, 1992, Dublin",30y 245d,Right hand Bat,Slow Left arm Orthodox
+83,Gareth James Delany,"April 28, 1997, Dublin",25y 330d,Right hand Bat,Legbreak Googly
+84,Mark Richard Adair,"March 27, 1996, Holywood, Northern Ireland",26y 362d,Right hand Bat,Right arm Fast medium
+85,Simi Singh,"February 04, 1987, Bathlana, Punjab, India",36y 48d,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+86,Barry John McCarthy,"September 13, 1992",30y 192d,Right hand Bat,Right arm Fast medium
+87,Joshua Brian Little,"November 01, 1999, Dublin",23y 143d,Right hand Bat,Left arm Fast medium
+88,Timm van der Gugten,"February 25, 1991, Hornsby, Upper North Shore, Sydney",32y 27d,Right hand Bat,Right arm Fast medium
+89,Kariyawasam Indipalage Charith Asalanka,"June 29, 1997, Elpitiya",25y 268d,Left hand Bat,Right arm Offbreak
+90,Aryan Lakra,"December 13, 2001, Sonepat, Haryana",21y 101d,Left hand Bat,Slow Left arm Orthodox
+91,Johnson Charles,"January 14, 1989, St Lucia",34y 69d,Right hand Bat,Wicketkeeper
+92,Tony Tanaka Munyonga,"January 31, 1999, Chitungwiza",24y 52d,Right hand Bat,Right arm Offbreak
+93,Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,"February 13, 1997, Kandy",26y 39d,Left hand Bat,Right arm Fast
+94,Binura Fernando,"July 12, 1995, Colombo",27y 255d,Right hand Bat,Left arm Medium fast
+95,Alishan Sharafu,"January 10, 2003, Kerala, India",20y 73d,Right hand Bat,Right arm Medium
+96,Fahad Nawaz,"January 15, 2000, Dubai",23y 68d,Right hand Bat,Slow Left arm Orthodox
+97,Ahmed Raza,"October 10, 1988, Sharjah",34y 165d,Right hand Bat,Slow Left arm Orthodox
+98,Ruben Trumpelmann,"February 01, 1998, Durban",25y 51d,Right hand Bat,Left arm Fast
+99,Finnley Hugh Allen,"April 22, 1999, Auckland",23y 336d,Right hand Bat,Occasional Wicketkeeper
+100,Devon Philip Conway,"July 08, 1991, Johannesburg, Transvaal",31y 259d,Left hand Bat,Right arm Medium
+101,Kane Stuart Williamson,"August 08, 1990, Tauranga",32y 228d,Right hand Bat,Right arm Offbreak
+102,Glenn Dominic Phillips,"December 06, 1996, East London, Eastern Cape, South Africa",26y 108d,Right hand Bat,Right arm Offbreak
+103,James Douglas Sheahan Neesham,"September 17, 1990, Auckland",32y 188d,Jimmy Neesham,Left hand Bat
+104,Mark Sinclair Chapman,"June 27, 1994, Hong Kong",28y 270d,Left hand Bat,Slow Left arm Orthodox
+105,Mitchell Josef Santner,"February 05, 1992, Hamilton",31y 47d,Left hand Bat,Slow Left arm Orthodox
+106,Inderbir Singh Sodhi,"October 31, 1992, Ludhiana, India",30y 144d,Right hand Bat,Legbreak
+107,Timothy Grant Southee,"December 11, 1988, Whangarei, Northland",34y 103d,Right hand Bat,Right arm Medium fast
+108,Lachlan Hammond Ferguson,"June 13, 1991, Auckland",31y 284d,Lockie,Right hand Bat
+109,Trent Alexander Boult,"July 22, 1989, Rotorua",33y 245d,Right hand Bat,Left arm Fast medium
+110,David Andrew Warner,"October 27, 1986, Paddington, New South Wales",36y 148d,Lloyd,Left hand Bat
+111,Aaron James Finch,"November 17, 1986, Colac, Victoria",36y 127d,Finchy,Right hand Bat
+112,Mitchell Ross Marsh,"October 20, 1991, Attadale, Perth",31y 155d,Right hand Bat,Right arm Medium
+113,Glenn James Maxwell,"October 14, 1988, Kew, Melbourne, Victoria",34y 161d,Right hand Bat,Right arm Offbreak
+114,Marcus Peter Stoinis,"August 16, 1989, Perth",33y 220d,Right hand Bat,Right arm Medium
+115,Timothy Hays David,"March 16, 1996, Singapore",27y 8d,Right hand Bat,Right arm Offbreak
+116,Matthew Scott Wade,"December 26, 1987, Hobart, Tasmania",35y 88d,Wadey,Left hand Bat
+117,Patrick James Cummins,"May 08, 1993, Westmead, Sydney",29y 320d,Cummo,Right hand Bat
+118,Mitchell Aaron Starc,"January 30, 1990, Baulkham Hills, Sydney, New South Wales",33y 53d,Left hand Bat,Left arm Fast
+119,Adam Zampa,"March 31, 1992, Shellharbour, New South Wales",30y 358d,Right hand Bat,Legbreak Googly
+120,Josh Reginald Hazlewood,"January 08, 1991, Tamworth, New South Wales",32y 75d,Left hand Bat,Right arm Fast medium
+121,Hazratullah Zazai,"March 23, 1998, Paktia",25y 1d,Left hand Bat,Slow Left arm Orthodox
+122,Rahmanullah Gurbaz,"November 28, 2001",21y 116d,Right hand Bat,Wicketkeeper
+123,Ibrahim Zadran,"December 12, 2001, Khost",21y 102d,Right hand Bat,Right arm Medium fast
+124,Usman Ghani,"November 20, 1996",26y 124d,Right hand Bat,Opening Batter
+125,Najibullah Zadran,"February 28, 1993, Logar",30y 24d,Left hand Bat,Right arm Offbreak
+126,Mohammad Nabi,"January 01, 1985, Loger, Afghanistan",38y 82d,Right hand Bat,Right arm Offbreak
+127,Azmatullah Omarzai,"March 24, 2000",23y,Right hand Bat,Right arm Medium fast
+128,Rashid Khan Arman,"September 20, 1998, Nangarhar",24y 185d,Right hand Bat,Legbreak Googly
+129,Mujeeb Ur Rahman,"March 28, 2001, Khost",21y 361d,Mujeeb Zadran,Right hand Bat
+130,Fareed Ahmad Malik,"August 10, 1994, Nangarahar",28y 226d,Farid Malik,Left hand Bat
+131,Fazalhaq Farooqi,"September 22, 2000, Baghlan",22y 183d,Right hand Bat,Left arm Fast medium
+132,Joseph Charles Buttler,"September 08, 1990, Taunton, Somerset",32y 197d,Right hand Bat,Wicketkeeper
+133,Alexander Daniel Hales,"January 03, 1989, Hillingdon, Middlesex",34y 80d,Right hand Bat,Right arm Medium
+134,Dawid Johannes Malan,"September 03, 1987, Roehampton, England",35y 202d,AC,Left hand Bat
+135,Benjamin Andrew Stokes,"June 04, 1991, Christchurch, Canterbury, New Zealand",31y 293d,Left hand Bat,Right arm Fast medium
+136,Liam Stephen Livingstone,"August 04, 1993, Barrow-in-Furness, Cumberland",29y 232d,Right hand Bat,"Right arm Offbreak, Legbreak"
+137,Harry Cherrington Brook,"February 22, 1999, Keighley, Yorkshire",24y 30d,Right hand Bat,Right arm Medium
+138,Moeen Munir Ali,"June 18, 1987, Birmingham",35y 279d,Moe,Left hand Bat
+139,Christopher Roger Woakes,"March 02, 1989, Birmingham, Warwickshire",34y 22d,Right hand Bat,Right arm Fast medium
+140,Samuel Matthew Curran,"June 03, 1998, Northampton",24y 294d,Left hand Bat,Left arm Medium fast
+141,Adil Usman Rashid,"February 17, 1988, Bradford, Yorkshire",35y 35d,"Dilly, Hoover",Right hand Bat
+142,Mark Andrew Wood,"January 11, 1990, Ashington, Northumberland",33y 72d,Right hand Bat,Right arm Fast
+143,Koralegedera Nadeeja Ashen Bandara,"November 23, 1998, Galle",24y 121d,Right hand Bat,Legbreak
+144,Mohammad Rizwan,"June 01, 1992, Peshawar, Khyber Pakhtunkhwa",30y 296d,Right hand Bat,Wicketkeeper
+145,Mohammad Babar Azam,"October 15, 1994, Lahore, Punjab",28y 160d,Right hand Bat,Right arm Offbreak
+146,Shan Masood Khan,"October 14, 1989, Kuwait",33y 161d,Shaan Masood,Shaani
+147,Iftikhar Ahmed,"September 03, 1990, Peshawar, North-West Frontier Province",32y 202d,Right hand Bat,Right arm Offbreak
+148,Shadab Khan,"October 04, 1998, Mianwali",24y 171d,Right hand Bat,Legbreak
+149,Haider Ali,"October 02, 2000, Attock",22y 173d,Right hand Bat,Middle order Batter
+150,Mohammad Nawaz,"March 21, 1994, Rawalpindi, Punjab",29y 3d,Left hand Bat,Slow Left arm Orthodox
+151,Asif Ali,"October 01, 1991, Faisalabad, Punjab",31y 174d,Right hand Bat,Right arm Offbreak
+152,Shaheen Shah Afridi,"April 06, 2000, Khyber Agency",22y 352d,Left hand Bat,Left arm Fast
+153,Haris Rauf,"November 07, 1993",29y 137d,Right hand Bat,Right arm Fast
+154,Naseem Shah,"February 15, 2003",20y 37d,Right hand Bat,Right arm Fast
+155,Kannaur Lokesh Rahul,"April 18, 1992, Bangalore, Karnataka",30y 340d,Right hand Bat,Wicketkeeper
+156,Rohit Gurunath Sharma,"April 30, 1987, Bansod, Nagpur, Maharashtra",35y 328d,Right hand Bat,Right arm Offbreak
+157,Virat Kohli,"November 05, 1988, Delhi",34y 139d,Right hand Bat,Right arm Medium
+158,Suryakumar Ashok Yadav,"September 14, 1990, Mumbai, Maharashtra",32y 191d,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+159,Axar Rajeshbhai Patel,"January 20, 1994, Anand, Gujarat",29y 63d,Akshar Patel,Left hand Bat
+160,Hardik Himanshu Pandya,"October 11, 1993, Choryasi, Gujarat",29y 164d,Right hand Bat,Right arm Medium fast
+161,Krishnakumar Dinesh Karthik,"June 01, 1985, Madras (now Chennai), Tamil Nadu",37y 296d,Dinesh,Right hand Bat
+162,Ravichandran Ashwin,"September 17, 1986, Madras (now Chennai), Tamil Nadu",36y 188d,Right hand Bat,Right arm Offbreak
+163,Mohammed Shami Ahmed,"September 03, 1990, Amroha, Uttar Pradesh",32y 202d,Right hand Bat,Right arm Fast
+164,Bhuvneshwar Kumar Singh,"February 05, 1990, Meerut, Uttar Pradesh",33y 47d,Right hand Bat,Right arm Medium
+165,Arshdeep Singh,"February 05, 1999, Guna, Madhya Pradesh",24y 47d,Left hand Bat,Left arm Medium fast
+166,Najmul Hossain Shanto,"August 25, 1998, Rajshahi",24y 211d,Left hand Bat,Right arm Offbreak
+167,Soumya Sarkar,"February 25, 1993, Satkhira",30y 27d,Left hand Bat,Right arm Medium fast
+168,Litton Kumer Das,"October 13, 1994, Dinajpur",28y 162d,Right hand Bat,Right arm Offbreak
+169,Shakib Al Hasan,"March 24, 1987, Magura, Jessore",36y,Saqibul Hasan,Left hand Bat
+170,Afif Hossain Dhrubo,"September 22, 1999, Khulna",23y 183d,Dhrubo,Left hand Bat
+171,Yasir Ali Chowdhury,"June 03, 1996, Chittagong",26y 294d,Yasir Ali Rabbi,Rabbi
+172,Quazi Nurul Hasan,"November 21, 1993, Khulna",29y 123d,Sohan,Right hand Bat
+173,Mosaddek Hossain Saikat,"December 10, 1995, Mymensingh",27y 104d,Saikat,Right hand Bat
+174,Taskin Ahmed,"April 03, 1995, Dhaka",27y 355d,Tazin,Left hand Bat
+175,Hasan Mahmud,"October 12, 1999, Laxmipur",23y 163d,Right hand Bat,Right arm Fast medium
+176,Mustafizur Rahman,"September 06, 1995, Satkhira",27y 199d,Left hand Bat,Left arm Fast medium
+177,Shariz Ahmad,"April 21, 2003",19y 337d,Left hand Bat,Legbreak Googly
+178,Quinton de Kock,"December 17, 1992, Johannesburg, Gauteng",30y 97d,Left hand Bat,Wicketkeeper
+179,Temba Bavuma,"May 17, 1990, Cape Town, Cape Province",32y 311d,Right hand Bat,Right arm Medium
+180,Rilee Roscoe Rossouw,"October 09, 1989, Bloemfontein, Orange Free State",33y 166d,Left hand Bat,Right arm Offbreak
+181,Aiden Kyle Markram,"October 04, 1994, Centurion",28y 171d,Right hand Bat,Right arm Offbreak
+182,David Andrew Miller,"June 10, 1989, Pietermaritzburg, Natal",33y 287d,Left hand Bat,Right arm Offbreak
+183,Tristan Stubbs,"August 14, 2000",22y 222d,Right hand Bat,Right arm Offbreak
+184,Wayne Dillon Parnell,"July 30, 1989, Port Elizabeth, Cape Province",33y 237d,"Pigeon, Parny",Left hand Bat
+185,Keshav Athmanand Maharaj,"February 07, 1990, Durban, Natal",33y 45d,Right hand Bat,Slow Left arm Orthodox
+186,Kagiso Rabada,"May 25, 1995, Johannesburg",27y 303d,Left hand Bat,Right arm Fast
+187,Anrich Arno Nortje,"November 16, 1993",29y 128d,Right hand Bat,Right arm Fast
+188,Lungisani True-man Ngidi,"March 29, 1996, Durban, Natal",26y 360d,Right hand Bat,Right arm Fast medium
+189,Ashton Charles Agar,"October 14, 1993, Melbourne, Victoria",29y 161d,Left hand Bat,Slow Left arm Orthodox
+190,Fionn Hand,"July 01, 1998, Dublin",24y 266d,Right hand Bat,Right arm Medium
+191,Tabraiz Shamsi,"February 18, 1990, Johannesburg, Gauteng",33y 34d,Right hand Bat,Left arm Wrist spin
+192,Mehidy Hasan Miraz,"October 25, 1997, Khulna",25y 150d,Miraz,Right hand Bat
+193,Brad Evans,"March 24, 1997",26y,Right hand Bat,Right arm Fast
+194,Mohammad Wasim,"August 25, 2001, North Wazirastan",21y 211d,Right hand Bat,Right arm Fast medium
+195,Daryl Joseph Mitchell,"May 20, 1991, Hamilton",31y 308d,Moose,Right hand Bat
+196,Chandrasekara Arachchilage Kasun Rajitha,"June 01, 1993, Matara",29y 296d,Right hand Bat,Right arm Medium fast
+197,Stephanus Johannes Myburgh,"February 28, 1984, Pretoria, Transvaal",39y 24d,Left hand Bat,Right arm Offbreak
+198,Brandon Dale Glover,"April 03, 1997, Johannesburg, Gauteng, South Africa",25y 355d,Right hand Bat,Right arm Fast
+199,Fakhar Zaman,"April 10, 1990, Mardan, North-West Frontier Province",32y 348d,Left hand Bat,Slow Left arm Orthodox
+200,Deepak Jagbir Hooda,"April 19, 1995, Rohtak",27y 339d,Right hand Bat,Right arm Offbreak
+201,Gulbadin Naib,"June 04, 1991, Logar, Afghanistan",31y 293d,Gulbadeen Naib,Right hand Bat
+202,Mohammad Shoriful Islam,"June 03, 2001, Panchagor",21y 294d,Left hand Bat,Left arm Medium fast
+203,Mohammad Haris,"March 30, 2001, Peshawar",21y 359d,Right hand Bat,Right arm Offbreak
+204,Heinrich Klaasen,"July 30, 1991, Pretoria, Transvaal",31y 237d,Right hand Bat,Right arm Offbreak
+205,Cameron Donald Green,"June 03, 1999",23y 294d,Right hand Bat,Right arm Fast medium
+206,Steven Peter Devereux Smith,"June 02, 1989, Sydney, New South Wales",33y 295d,Steve Smith,Right hand Bat
+207,Kane William Richardson,"February 12, 1991, Eudunda, South Australia",32y 40d,Right hand Bat,Right arm Fast medium
+208,Darwish Rasooli,"December 12, 1999, Laghman",23y 102d,Right hand Bat,Right arm Offbreak
+209,Naveen-ul-Haq Murid,"September 23, 1999, Kabul",23y 182d,Right hand Bat,Right arm Medium fast
+210,Nasum Ahmed,"December 05, 1994",28y 109d,Left hand Bat,Slow Left arm Orthodox
+211,Ebadot Hossain Chowdhury,"January 07, 1994, Moulvi Bazar, Sylhet",29y 76d,Right hand Bat,Right arm Fast medium
+212,Rishabh Rajendra Pant,"October 04, 1997, Haridwar, Uttarakhand",25y 171d,Left hand Bat,Wicketkeeper
+213,Wellington Pedzisai Masakadza,"October 04, 1993, Harare",29y 171d,Left hand Bat,Slow Left arm Orthodox
+214,Philip Dean Salt,"August 28, 1996, Bodelwyddan, North Wales",26y 208d,Right hand Bat,Right arm Offbreak
+215,Christopher James Jordan,"October 04, 1988, Barbados",34y 171d,CJ,Right hand Bat
